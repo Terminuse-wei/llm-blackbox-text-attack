@@ -1,0 +1,357 @@
+{
+  "total": 50,
+  "correct": 49,
+  "accuracy": 0.98,
+  "samples": [
+    {
+      "text": "it 's a charming and often affecting journey . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998838901519775,
+      "correct": true
+    },
+    {
+      "text": "unflinchingly bleak and desperate ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.998969554901123,
+      "correct": true
+    },
+    {
+      "text": "allows us to hope that nolan is poised to embark a major career as a commercial yet inventive filmmaker . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9996399879455566,
+      "correct": true
+    },
+    {
+      "text": "the acting , costumes , music , cinematography and sound are all astounding given the production 's austere locales . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9996993541717529,
+      "correct": true
+    },
+    {
+      "text": "it 's slow -- very , very slow . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9996892213821411,
+      "correct": true
+    },
+    {
+      "text": "although laced with humor and a few fanciful touches , the film is a refreshingly serious look at young women . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998290538787842,
+      "correct": true
+    },
+    {
+      "text": "a sometimes tedious film . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.999504566192627,
+      "correct": true
+    },
+    {
+      "text": "or doing last year 's taxes with your ex-wife . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9917595982551575,
+      "correct": true
+    },
+    {
+      "text": "you do n't have to know about music to appreciate the film 's easygoing blend of comedy and romance . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9926711320877075,
+      "correct": true
+    },
+    {
+      "text": "in exactly 89 minutes , most of which passed as slowly as if i 'd been sitting naked on an igloo , formula 51 sank from quirky to jerky to utter turkey . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9992507100105286,
+      "correct": true
+    },
+    {
+      "text": "the mesmerizing performances of the leads keep the film grounded and keep the audience riveted . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998838901519775,
+      "correct": true
+    },
+    {
+      "text": "it takes a strange kind of laziness to waste the talents of robert forster , anne meara , eugene levy , and reginald veljohnson all in the same movie . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9996739625930786,
+      "correct": true
+    },
+    {
+      "text": "... the film suffers from a lack of humor ( something needed to balance out the violence ) ... ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9998156428337097,
+      "correct": true
+    },
+    {
+      "text": "we root for ( clara and paul ) , even like them , though perhaps it 's an emotion closer to pity . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9570928812026978,
+      "correct": true
+    },
+    {
+      "text": "even horror fans will most likely not find what they 're seeking with trouble every day ; the movie lacks both thrills and humor . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9997715353965759,
+      "correct": true
+    },
+    {
+      "text": "a gorgeous , high-spirited musical from india that exquisitely blends music , dance , song , and high drama . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998869895935059,
+      "correct": true
+    },
+    {
+      "text": "the emotions are raw and will strike a nerve with anyone who 's ever had family trauma . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9994854927062988,
+      "correct": true
+    },
+    {
+      "text": "audrey tatou has a knack for picking roles that magnify her outrageous charm , and in this literate french comedy , she 's as morning-glory exuberant as she was in am\u00e9lie . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.999798595905304,
+      "correct": true
+    },
+    {
+      "text": "... the movie is just a plain old monster . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9992817044258118,
+      "correct": true
+    },
+    {
+      "text": "in its best moments , resembles a bad high school production of grease , without benefit of song . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9995865225791931,
+      "correct": true
+    },
+    {
+      "text": "pumpkin takes an admirable look at the hypocrisy of political correctness , but it does so with such an uneven tone that you never know when humor ends and tragedy begins . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.977343738079071,
+      "correct": true
+    },
+    {
+      "text": "the iditarod lasts for days - this just felt like it did . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9551854729652405,
+      "correct": true
+    },
+    {
+      "text": "holden caulfield did it better . ",
+      "true": "NEGATIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9907523393630981,
+      "correct": false
+    },
+    {
+      "text": "a delectable and intriguing thriller filled with surprises , read my lips is an original . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998834133148193,
+      "correct": true
+    },
+    {
+      "text": "seldom has a movie so closely matched the spirit of a man and his work . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9965078234672546,
+      "correct": true
+    },
+    {
+      "text": "nicks , seemingly uncertain what 's going to make people laugh , runs the gamut from stale parody to raunchy sex gags to formula romantic comedy . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9996476173400879,
+      "correct": true
+    },
+    {
+      "text": "the action switches between past and present , but the material link is too tenuous to anchor the emotional connections that purport to span a 125-year divide . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9980615973472595,
+      "correct": true
+    },
+    {
+      "text": "it 's an offbeat treat that pokes fun at the democratic exercise while also examining its significance for those who take part . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9996742010116577,
+      "correct": true
+    },
+    {
+      "text": "it 's a cookie-cutter movie , a cut-and-paste job . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9915094375610352,
+      "correct": true
+    },
+    {
+      "text": "i had to look away - this was god awful . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9970059990882874,
+      "correct": true
+    },
+    {
+      "text": "thanks to scott 's charismatic roger and eisenberg 's sweet nephew , roger dodger is one of the most compelling variations on in the company of men . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998767375946045,
+      "correct": true
+    },
+    {
+      "text": "... designed to provide a mix of smiles and tears , `` crossroads '' instead provokes a handful of unintentional howlers and numerous yawns . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9966211318969727,
+      "correct": true
+    },
+    {
+      "text": "a gorgeous , witty , seductive movie . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998878240585327,
+      "correct": true
+    },
+    {
+      "text": "if the movie succeeds in instilling a wary sense of ` there but for the grace of god , ' it is far too self-conscious to draw you deeply into its world . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9486179947853088,
+      "correct": true
+    },
+    {
+      "text": "it does n't believe in itself , it has no sense of humor ... it 's just plain bored . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9998156428337097,
+      "correct": true
+    },
+    {
+      "text": "a sequence of ridiculous shoot - 'em - up scenes . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9997166991233826,
+      "correct": true
+    },
+    {
+      "text": "the weight of the piece , the unerring professionalism of the chilly production , and the fascination embedded in the lurid topic prove recommendation enough . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9991298317909241,
+      "correct": true
+    },
+    {
+      "text": "( w ) hile long on amiable monkeys and worthy environmentalism , jane goodall 's wild chimpanzees is short on the thrills the oversize medium demands . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9870452284812927,
+      "correct": true
+    },
+    {
+      "text": "as surreal as a dream and as detailed as a photograph , as visually dexterous as it is at times imaginatively overwhelming . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9991269707679749,
+      "correct": true
+    },
+    {
+      "text": "escaping the studio , piccoli is warmly affecting and so is this adroitly minimalist movie . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9997716546058655,
+      "correct": true
+    },
+    {
+      "text": "there 's ... tremendous energy from the cast , a sense of playfulness and excitement that seems appropriate . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998881816864014,
+      "correct": true
+    },
+    {
+      "text": "this illuminating documentary transcends our preconceived vision of the holy land and its inhabitants , revealing the human complexities beneath . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9996800422668457,
+      "correct": true
+    },
+    {
+      "text": "the subtle strength of `` elling '' is that it never loses touch with the reality of the grim situation . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9997768998146057,
+      "correct": true
+    },
+    {
+      "text": "holm ... embodies the character with an effortlessly regal charisma . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998315572738647,
+      "correct": true
+    },
+    {
+      "text": "the title not only describes its main characters , but the lazy people behind the camera as well . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9955686926841736,
+      "correct": true
+    },
+    {
+      "text": "it offers little beyond the momentary joys of pretty and weightless intellectual entertainment . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9972707629203796,
+      "correct": true
+    },
+    {
+      "text": "a synthesis of cliches and absurdities that seems positively decadent in its cinematic flash and emptiness . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9600979089736938,
+      "correct": true
+    },
+    {
+      "text": "a subtle and well-crafted ( for the most part ) chiller . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998636245727539,
+      "correct": true
+    },
+    {
+      "text": "has a lot of the virtues of eastwood at his best . ",
+      "true": "POSITIVE",
+      "pred": "POSITIVE",
+      "confidence": 0.9998326301574707,
+      "correct": true
+    },
+    {
+      "text": "it 's hampered by a lifetime-channel kind of plot and a lead actress who is out of her depth . ",
+      "true": "NEGATIVE",
+      "pred": "NEGATIVE",
+      "confidence": 0.9997772574424744,
+      "correct": true
+    }
+  ]
+}

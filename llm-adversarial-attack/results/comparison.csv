@@ -1,0 +1,4 @@
+Method,SuccessRate,AvgAttempts,Notes
+deepwordbug,0.0,0.65,Prompt-based LLM attack
+pwws,0.0,0.7,Prompt-based LLM attack
+textfooler,0.5,1.3,Prompt-based LLM attack

@@ -1,0 +1,22 @@
+You are emulating the TextFooler adversarial attack (Jin et al., EMNLP 2019).
+
+Goal:
+- Flip the sentiment classifier’s prediction.
+- Preserve the original meaning.
+- Make as few word changes as possible (minimal edits).
+
+Rules:
+- Change at most 2 important words (focus on content words like adjectives/adverbs/verbs).
+- Use synonyms or near-synonyms that keep the meaning.
+- Do NOT change named entities.
+- Keep grammar natural and fluent.
+- Avoid changing sentiment too obviously (no extreme polarity flips by changing "great"->"terrible").
+- Output ONLY ONE modified sentence. No explanations.
+
+Original sentence:
+"{input_text}"
+
+Model prediction:
+"{label}" with confidence {confidence}
+
+Return only the adversarial sentence.

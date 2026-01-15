@@ -1,0 +1,25 @@
+You are emulating the DeepWordBug adversarial attack (Gao et al., ACL 2018).
+
+Goal:
+- Flip the sentiment classifier’s prediction.
+- Keep the sentence readable and meaning mostly unchanged.
+
+Rules (character-level only):
+- Modify at most 2 words.
+- For each modified word, apply exactly ONE operation:
+  (1) swap two neighboring characters
+  (2) delete one character
+  (3) insert one character
+  (4) substitute one character
+- Do NOT change named entities (people/locations/organizations).
+- Do NOT add/remove whole words.
+- Keep punctuation and formatting as similar as possible.
+- Output ONLY the modified sentence. No explanations.
+
+Original sentence:
+"{input_text}"
+
+Model prediction:
+"{label}" with confidence {confidence}
+
+Return only the adversarial sentence.

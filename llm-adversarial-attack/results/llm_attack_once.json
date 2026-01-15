@@ -1,0 +1,15 @@
+{
+  "prompt_path": "prompts/deepwordbug.txt",
+  "input_text": "This movie was fantastic!",
+  "orig_pred": {
+    "label": "POSITIVE",
+    "score": 0.9998781681060791
+  },
+  "adv_text": "This movie wass fantast!",
+  "adv_pred": {
+    "label": "POSITIVE",
+    "score": 0.9979647397994995
+  },
+  "flipped": false,
+  "ollama_model": "llama3:8b"
+}

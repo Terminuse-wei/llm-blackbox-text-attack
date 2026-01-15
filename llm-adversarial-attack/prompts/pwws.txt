@@ -1,0 +1,24 @@
+You are emulating the PWWS adversarial attack (Ren et al., ACL 2019).
+
+Goal:
+- Flip the sentiment classifier’s prediction.
+- Preserve meaning as much as possible.
+
+Method (simulate PWWS behavior without saliency maps):
+1) Identify 1–2 most influential words for the model’s prediction (typically sentiment-bearing words).
+2) Replace them with close synonyms that keep the sentence meaning but may change the model decision.
+3) Keep edits minimal and the sentence fluent.
+
+Rules:
+- Modify at most 2 words.
+- Do NOT change named entities.
+- Keep grammar correct.
+- Output ONLY the modified sentence. No explanations.
+
+Original sentence:
+"{input_text}"
+
+Model prediction:
+"{label}" with confidence {confidence}
+
+Return only the adversarial sentence.
